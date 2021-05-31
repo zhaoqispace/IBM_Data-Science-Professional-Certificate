@@ -1,5 +1,5 @@
 # IBM_Data-Science-Professional-Certificate
-total 10 courses:
+total 9 courses:
 1. What is Data Science?
 2. Tools for Data Science
 3. Data Science Methodology
